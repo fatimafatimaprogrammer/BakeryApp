@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088801563287",
+    "project_id": "madassign-7bb45",
+    "storage_bucket": "madassign-7bb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088801563287:android:9af7d93817737413bd3fd2",
+        "android_client_info": {
+          "package_name": "com.example.mad_assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088801563287-pimjto7jodimfg74eb59g5cc8ppqcsj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_assign",
+            "certificate_hash": "359976b2a06bf1ceac26816144d5d7400e3b8dc8"
+          }
+        },
+        {
+          "client_id": "1088801563287-3q34fcn8hc68bgducqiptor4dle1oa70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjOp0wcJXDcvh50GUTpRKDN2p9HzZg0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088801563287-3q34fcn8hc68bgducqiptor4dle1oa70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
